@@ -1,9 +1,9 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Elod044&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Elod-T&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,python,html,css,c,cpp,bash,xml,json,yaml,postgresql,mysql,markdown&includeNames=true
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,python,html,css,cpp,bash,xml,json,yaml,postgresql,mysql,markdown&includeNames=true
 )](https://github.com/Jurredr/github-widgetbox)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Elod044)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Elod-T)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ## Other Things I Use
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
@@ -23,7 +23,6 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![XDA-Developers](https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
